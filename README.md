@@ -1,6 +1,6 @@
 # Simon-game
 
-This is game developed predominantly using JavaScript.
+This is a game developed predominantly using JavaScript.
 
 
 How to play simon game?
